@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 # Run the main program.
 replace id_card_refer.jpg in directory "images" with your face image, then run the scripts.
+
 python face_id.py
 
 
